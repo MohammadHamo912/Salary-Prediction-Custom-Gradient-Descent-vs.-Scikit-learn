@@ -1,6 +1,4 @@
-Creating a good README is essential for any project on GitHub\! Here is a structured and informative README file for your salary prediction project, covering the model you built from scratch and the comparison with Scikit-learn.
 
------
 
 # 📈 Salary Prediction: Custom Gradient Descent vs. Scikit-learn
 
